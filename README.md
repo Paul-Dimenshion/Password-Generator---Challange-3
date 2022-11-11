@@ -10,8 +10,8 @@ Upload index.html, license.txt, and assets to the deployable web server. The ass
 
 ## Links
 
-* Link to optimized site
-* Link to corresponding repository in GitHub
+* [Link to optimized site](https://paul-dimenshion.github.io/Password-Generator---Challange-3/)
+* [Link to corresponding repository in GitHub](https://github.com/Paul-Dimenshion/Password-Generator---Challange-3.git)
 
 ## What had been done
 
