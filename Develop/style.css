@@ -88,6 +88,19 @@ header {
   cursor: pointer;
 }
 
+ /* Added element with class = btn2 */
+.btn2 {
+  display: block;
+  background: transparent;
+  border: none;
+  position: absolute;
+  width: 720px;
+  height: 100px;
+  cursor: pointer;
+  border: 2px dashed #c0c7cf;
+  border-radius: 6px;
+}
+
 button[disabled] {
   cursor: default;
   background: #c0c7cf;
@@ -104,16 +117,14 @@ button[disabled] {
   border: none;
   display: block;
   width: 100%;
-  padding-top: 15px;
-  padding-left: 15px;
-  padding-right: 15px;
-  padding-bottom: 85px;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
   font-size: 1.2rem;
   text-align: center;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  border: 2px dashed #c0c7cf;
-  border-radius: 6px;
+  margin-top: 0;
+  margin-bottom: 0;
   resize: none;
   overflow: hidden;
 }
