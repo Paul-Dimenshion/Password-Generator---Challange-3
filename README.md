@@ -10,19 +10,19 @@ Upload index.html, license.txt, and assets to the deployable web server. The ass
 
 ## Links
 
-Link to optimized site
-Link to corresponding repository in GitHub
+* [Link to optimized site](https://paul-dimenshion.github.io/Password-Generator---Challange-3/)
+* [Link to corresponding repository in GitHub](https://github.com/Paul-Dimenshion/Password-Generator---Challange-3.git)
 
 ## What had been done
 
-✅ Added new <button> for copy passwords function to the HTNL.
-✅ Changes have been made to the CSS file with the addition of a new style element.
-✅ Added new function for generation passords.
-✅ Lists transferred to array
-✅ Added new function for copy passwords by click to output area
-✅ Comments on the changes were added to the HTML document.
-✅ Comments on the changes were added to the CSS document.
-✅ Comments on the changes were added to the JS document.
+* ✅ Added new <button> for copy passwords function to the HTNL.
+* ✅ Changes have been made to the CSS file with the addition of a new style element.
+* ✅ Added new function for generation passords.
+* ✅ Lists transferred to array
+* ✅ Added new function for copy passwords by click to output area
+* ✅ Comments on the changes were added to the HTML document.
+* ✅ Comments on the changes were added to the CSS document.
+* ✅ Comments on the changes were added to the JS document.
 
 The following image shows the web application's appearance and functionality:
 
